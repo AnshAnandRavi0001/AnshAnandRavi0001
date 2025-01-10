@@ -1,3 +1,4 @@
+![logo](![image](https://github.com/user-attachments/assets/4f9ecb26-b483-4c57-9501-beee6be9911d))
 
 <h1 align="center">Hi 👋, I'm Ansh Anand Ravi</h1>
 <h3 align="center">Data Analytics Enthusiast | Skilled in Python, Power BI, SQL, Excel.</h3>
